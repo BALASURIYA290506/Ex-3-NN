@@ -107,7 +107,8 @@ predict(w1,w2,test)
 
 ## Output:
 
-<img width="1137" height="620" alt="Screenshot 2026-07-29 091937" src="https://github.com/user-attachments/assets/12740f51-5547-41fd-ac19-3b3eced401ac" />
+<img width="802" height="599" alt="image" src="https://github.com/user-attachments/assets/d188857e-bb1e-4e27-b6a6-83b8677a3149" />
+
 
 <img width="1316" height="247" alt="Screenshot 2026-07-29 091948" src="https://github.com/user-attachments/assets/78fad9a5-8cef-4565-8908-5abd88e0ec04" />
 
